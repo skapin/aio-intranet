@@ -17,6 +17,10 @@
       "section": "Setup",
       "topics": [
         {
+          "title": "wo",
+          "slug": "wo-wo"
+        },
+        {
           "title": "Theme configuration",
           "slug": "theme-configuration"
         },
